@@ -1,3 +1,4 @@
+import { Button } from "@mui/material"
 
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
    <>
    Ajitha
+   <Button>Click Me</Button>
    </>
   )
 }
